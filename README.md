@@ -1,3 +1,3 @@
 **Laptop Store Website**
 
-**using Pure PHP, HTML , CSS and MYSQL as a Database**
+**using Pure PHP, HTML , CSS and MYSQL**
