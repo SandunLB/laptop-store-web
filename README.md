@@ -31,7 +31,7 @@ A advanced laptop store website built using PHP, CSS, HTML, and MySQL.
 
 3. Import the MySQL database:
     - Create a database named `laptop_store`.
-    - Import the `database.sql` file:
+    - Import the `laptop_store.sql` file:
         ```sql
         mysql -u your-username -p laptop_store < sql/database.sql
         ```
